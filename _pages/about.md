@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xin Zhou - Academic"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
