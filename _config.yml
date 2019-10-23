@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin Zhou"
+title                    : "Dr. Xin Zhou"
 title_separator          : "-"
 name                     : &name "Xin Zhou / NTU"
 description              : &description "Research scientist at NTU"
