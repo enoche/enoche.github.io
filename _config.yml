@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xin Zhou / Recommender Systems"
+title                    : "Xin Zhou"
 title_separator          : "-"
 name                     : &name "Xin Zhou"
 description              : &description "Research scientist at NTU"
