@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xin Zhou"
 title_separator          : "-"
-name                     : &name "Xin Zhou"
+name                     : &name "Xin Zhou / NTU"
 description              : &description "Research scientist at NTU"
 url                      : https://enoche.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
