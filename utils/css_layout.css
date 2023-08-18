@@ -178,7 +178,7 @@
     justify-content: center;
     }
     .divider:before, .divider:after {
-    content: "______________________";
+    content: "________________";
     color: #e6e8ea;
     position: relative;
     bottom: 8px;
