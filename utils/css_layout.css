@@ -171,3 +171,18 @@
     max-width:100%;
     max-height:100%;
   }
+
+  .divider{
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    }
+    .divider:before, .divider:after {
+    content: "______________________";
+    color: #e6e8ea;
+    position: relative;
+    bottom: 8px;
+    } 
+    .divider i {
+    color: #cccccc;
+    }
