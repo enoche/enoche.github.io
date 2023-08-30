@@ -1,4 +1,4 @@
 # Simple Plain Html Academic Personal Page
 
 Uses jQuery and Bootstrap CSS.
-[Here](https://enoche.github.io/) is my actively maintained page.
+[Here](https://xinzhou.me/) is my actively maintained page.
