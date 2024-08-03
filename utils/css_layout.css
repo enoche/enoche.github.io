@@ -1,12 +1,5 @@
 @charset "utf-8";
 
-
-
-    /*
-        utils css
-    */
-
-
     body a{
         text-decoration:none;
     }
@@ -110,9 +103,10 @@
   #main > div.content{
     padding: 10px 50px;
     line-height: 25px;
-    font-family: 'Lato', sans-serif;
+    font-family: Optima, sans-serif;
     font-weight: 450;
-    font-size: 16px;
+    font-size: 14px;
+    text-shadow: 0px 1px 0px #ababab;
   }
 
   #main > div.title{
